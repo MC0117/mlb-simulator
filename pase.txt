@@ -1,0 +1,57 @@
+---- TESTING 1B ---
+Bases: [0, 0, 0] -> (1, 0, 0) | Runs: 0
+Bases: [1, 0, 0] -> (1, 1, 0) | Runs: 0
+Bases: [0, 1, 0] -> (1, 0, 1) | Runs: 0
+Bases: [1, 1, 0] -> (1, 1, 1) | Runs: 0
+Bases: [0, 0, 1] -> (1, 0, 0) | Runs: 1
+Bases: [1, 0, 1] -> (1, 1, 0) | Runs: 1
+Bases: [0, 1, 1] -> (1, 0, 1) | Runs: 1
+Bases: [1, 1, 1] -> (1, 1, 1) | Runs: 1
+
+--- TESTING 2B ---
+Bases: [0, 0, 0] -> (0, 1, 0) | Runs: 0
+Bases: [1, 0, 0] -> (0, 1, 1) | Runs: 0
+Bases: [0, 1, 0] -> (0, 1, 0) | Runs: 1
+Bases: [1, 1, 0] -> (0, 1, 1) | Runs: 1
+Bases: [0, 0, 1] -> (0, 1, 0) | Runs: 1
+Bases: [1, 0, 1] -> (0, 1, 1) | Runs: 1
+Bases: [0, 1, 1] -> (0, 1, 0) | Runs: 2
+Bases: [1, 1, 1] -> (0, 1, 1) | Runs: 2
+
+--- TESTING 3B ---
+Bases: [0, 0, 0] -> (0, 0, 1) | Runs: 0
+Bases: [1, 0, 0] -> (0, 0, 1) | Runs: 1
+Bases: [0, 1, 0] -> (0, 0, 1) | Runs: 1
+Bases: [1, 1, 0] -> (0, 0, 1) | Runs: 2
+Bases: [0, 0, 1] -> (0, 0, 1) | Runs: 1
+Bases: [1, 0, 1] -> (0, 0, 1) | Runs: 2
+Bases: [0, 1, 1] -> (0, 0, 1) | Runs: 2
+Bases: [1, 1, 1] -> (0, 0, 1) | Runs: 3-- TESTING 1B ---
+Bases: [0, 0, 0] -> (1, 0, 0) | Runs: 0
+Bases: [1, 0, 0] -> (1, 1, 0) | Runs: 0
+Bases: [0, 1, 0] -> (1, 0, 1) | Runs: 0
+Bases: [1, 1, 0] -> (1, 1, 1) | Runs: 0
+Bases: [0, 0, 1] -> (1, 0, 0) | Runs: 1
+Bases: [1, 0, 1] -> (1, 1, 0) | Runs: 1
+Bases: [0, 1, 1] -> (1, 0, 1) | Runs: 1
+Bases: [1, 1, 1] -> (1, 1, 1) | Runs: 1
+
+--- TESTING 2B ---
+Bases: [0, 0, 0] -> (0, 1, 0) | Runs: 0
+Bases: [1, 0, 0] -> (0, 1, 1) | Runs: 0
+Bases: [0, 1, 0] -> (0, 1, 0) | Runs: 1
+Bases: [1, 1, 0] -> (0, 1, 1) | Runs: 1
+Bases: [0, 0, 1] -> (0, 1, 0) | Runs: 1
+Bases: [1, 0, 1] -> (0, 1, 1) | Runs: 1
+Bases: [0, 1, 1] -> (0, 1, 0) | Runs: 2
+Bases: [1, 1, 1] -> (0, 1, 1) | Runs: 2
+
+--- TESTING 3B ---
+Bases: [0, 0, 0] -> (0, 0, 1) | Runs: 0
+Bases: [1, 0, 0] -> (0, 0, 1) | Runs: 1
+Bases: [0, 1, 0] -> (0, 0, 1) | Runs: 1
+Bases: [1, 1, 0] -> (0, 0, 1) | Runs: 2
+Bases: [0, 0, 1] -> (0, 0, 1) | Runs: 1
+Bases: [1, 0, 1] -> (0, 0, 1) | Runs: 2
+Bases: [0, 1, 1] -> (0, 0, 1) | Runs: 2
+Bases: [1, 1, 1] -> (0, 0, 1) | Runs: 3
