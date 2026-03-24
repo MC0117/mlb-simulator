@@ -145,6 +145,15 @@ ENV/
 env.bak/
 venv.bak/
 
+# Ignore the entire data directory
+data/
+
+# Specific safety for any loose data files in other folders
+*.csv
+*.parquet
+*.sqlite
+*.zip
+
 # Spyder project settings
 .spyderproject
 .spyproject
